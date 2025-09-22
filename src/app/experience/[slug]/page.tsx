@@ -9,8 +9,8 @@ import { Button } from '@/components/ui/button';
 import Link from 'next/link';
 import { ArrowLeft } from 'lucide-react';
 import { useLanguage } from '@/context/language-context';
-import messagesEn from '../../../messages/en.json';
-import messagesFr from '../../../messages/fr.json';
+import messagesEn from '../../../../messages/en.json';
+import messagesFr from '../../../../messages/fr.json';
 
 export default function ExperiencePage({ params }: { params: { slug: string } }) {
   const { locale } = useLanguage();

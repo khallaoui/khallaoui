@@ -7,8 +7,8 @@ import { Button } from '@/components/ui/button';
 import Link from 'next/link';
 import { ArrowLeft, School } from 'lucide-react';
 import { useLanguage } from '@/context/language-context';
-import messagesEn from '../../../messages/en.json';
-import messagesFr from '../../../messages/fr.json';
+import messagesEn from '../../../../messages/en.json';
+import messagesFr from '../../../../messages/fr.json';
 
 
 function getEducationPageT(degree: string, institution: string, locale: 'en' | 'fr') {
