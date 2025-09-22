@@ -1,0 +1,143 @@
+{
+  "personalData": {
+    "name": "MOHAMED KHALLAOUI",
+    "headline": "SAP Technical Consultant",
+    "about": "Motivated SAP Technical Consultant seeking a PFE/CDI (Jan/Feb 2026). Experienced in SAP S/4HANA, ABAP, RAP, CAP, SAPUI5, SAP Fiori, SAP BTP, with knowledge of SAP MM processes. Skilled in delivering RICEFW objects to solve business challenges. Proactive team player, passionate about delivering real business value.",
+    "contact": {
+      "email": "med.khallaoui4@gmail.com",
+      "phone": "+212 624433295",
+      "address": "Kenitra, Morocco"
+    }
+  },
+  "Header": {
+    "about": "About",
+    "experience": "Experience",
+    "projects": "Projects",
+    "skills": "Skills",
+    "contact": "Contact",
+    "language": "Language",
+    "english": "English",
+    "french": "Français"
+  },
+  "Hero": {
+    "welcome": "Welcome to my digital space. I build things for the web with passion and precision.",
+    "getInTouch": "Get in Touch",
+    "downloadCv": "Download CV"
+  },
+  "About": {
+    "title": "About Me",
+    "subtitle": "A brief introduction to who I am and what I do.",
+    "paragraph": "Beyond coding, I am passionate about creating intuitive user experiences that are both functional and visually appealing. I believe that great software is built at the intersection of powerful technology and thoughtful design."
+  },
+  "Experience": {
+    "title": "Experience",
+    "subtitle": "A timeline of my professional journey and accomplishments. Click on an item to see more details.",
+    "items": [
+      {
+        "role": "SAP Technical Consultant",
+        "description": "Implemented SAP ERP/S/4HANA (On-Prem & Cloud), developing ABAP programs, CDS Views, ABAP RESTful Application Programming Model (RAP) apps, and SAP Fiori UI/UX solutions. Built OData services and SAP BTP integrations; developed Java Spring Boot & Node.js applications with CAP. Applied Keep the Core Clean practices, contributed to agile teamwork, and enhanced SAP BTP connectivity. Collaborated with functional teams to ensure accurate technical specifications."
+      },
+      {
+        "role": "Full Stack Developer Intern",
+        "description": "Built a production management Web App with Spring MVC, Spring Security, Thymeleaf and MySQL to handle production planning, tracking, and reporting, improving operational efficiency."
+      },
+      {
+        "role": "Software Developer Intern",
+        "description": "Created a Library Management System using Java Swing and MySQL to manage book inventory and member records."
+      }
+    ]
+  },
+  "Education": {
+    "title": "Education",
+    "subtitle": "My academic background and qualifications. Click on an item to see more details.",
+    "pageTitle": "{degree} from {institution}",
+    "pageDescription": "Details about the {degree} from {institution}.",
+    "backLink": "Back to Portfolio",
+    "items": [
+      { "degree": "Master’s in Software Engineering" },
+      { "degree": "Bachelor’s in Computer Engineering" },
+      { "degree": "Software Development Diploma" },
+      { "degree": "Baccalaureate in Electrical Technology" }
+    ]
+  },
+  "Projects": {
+    "title": "Projects",
+    "subtitle": "A selection of my recent work. Explore and see what I can do.",
+    "items": [
+      {
+        "title": "AI-Powered Project Suggester",
+        "description": "A smart contact form that suggests relevant portfolio projects based on user interests using GenAI."
+      },
+      {
+        "title": "E-commerce Platform",
+        "description": "A full-featured online store with product management, shopping cart, and payment integration."
+      },
+      {
+        "title": "Travel Planner App",
+        "description": "A mobile-first application for planning trips, booking flights, and discovering new destinations."
+      },
+      {
+        "title": "Data Analytics Dashboard",
+        "description": "A web-based dashboard for visualizing and analyzing complex datasets with interactive charts and reports."
+      }
+    ]
+  },
+  "Skills": {
+    "title": "Technical Skills",
+    "subtitle": "The technologies and tools I use to bring projects to life.",
+    "categories": [
+      { "title": "Programming Languages" },
+      { "title": "Frameworks & APIs" },
+      { "title": "SAP & Cloud" },
+      { "title": "Databases" },
+      { "title": "Tools & Methods" }
+    ]
+  },
+  "Certifications": {
+    "title": "Learning & Certifications",
+    "subtitle": "My profiles and badges on different learning platforms.",
+    "items": [
+      { "title": "Google Developer Profile", "issuer": "Google" },
+      { "title": "Credly Badges", "issuer": "Credly" },
+      { "title": "Microsoft Learn Badges", "issuer": "Microsoft" },
+      { "title": "HackerRank Profile", "issuer": "HackerRank" }
+    ]
+  },
+  "Hobbies": {
+    "title": "Languages & Hobbies",
+    "subtitle": "What I do in my free time and the languages I speak.",
+    "languagesTitle": "Languages",
+    "hobbiesTitle": "Hobbies",
+    "languages": [
+      { "name": "English", "level": "Professional" },
+      { "name": "French", "level": "Professional" },
+      { "name": "Arabic", "level": "Native" },
+      { "name": "Tamazight", "level": "Native" }
+    ],
+    "hobbies": ["Volleyball", "Chess", "Research & Discovery"]
+  },
+  "Contact": {
+    "title": "Get In Touch",
+    "subtitle": "Have a question or a project in mind? Or just want to say hi? Let's connect. Use the form below to get AI-powered project recommendations!",
+    "formTitle": "Project Suggester ✨",
+    "nameLabel": "Your Name",
+    "namePlaceholder": "Alex Doe",
+    "emailLabel": "Your Email",
+    "emailPlaceholder": "alex@example.com",
+    "interestsLabel": "Areas of Interest",
+    "interestsPlaceholder": "e.g., AI, Machine Learning, Web Development...",
+    "submitButton": "Generate Suggestions",
+    "suggestionsTitle": "Here are some suggestions for you!",
+    "relevantProjects": "Relevant Projects:",
+    "relevantExperience": "Relevant Experience:",
+    "contactInfo": "Contact Information"
+  },
+  "Footer": {
+    "copy": "© {year} {name}. All rights reserved."
+  },
+  "Chatbot": {
+    "greeting": "Hello! I'm KineticBot. I can answer questions about {name}. What would you like to know?",
+    "inputPlaceholder": "Ask about my skills...",
+    "errorMessage": "I'm sorry, something went wrong. Please try again later."
+  }
+}

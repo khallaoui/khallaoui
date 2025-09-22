@@ -1,0 +1,143 @@
+{
+  "personalData": {
+    "name": "MOHAMED KHALLAOUI",
+    "headline": "Consultant Technique SAP",
+    "about": "Consultant technique SAP motivé à la recherche d'un PFE/CDI (janv./févr. 2026). Expérimenté en SAP S/4HANA, ABAP, RAP, CAP, SAPUI5, SAP Fiori, SAP BTP, avec une connaissance des processus SAP MM. Compétent dans la livraison d'objets RICEFW pour résoudre les défis commerciaux. Joueur d'équipe proactif, passionné par la livraison d'une réelle valeur commerciale.",
+    "contact": {
+      "email": "med.khallaoui4@gmail.com",
+      "phone": "+212 624433295",
+      "address": "Kénitra, Maroc"
+    }
+  },
+  "Header": {
+    "about": "À propos",
+    "experience": "Expérience",
+    "projects": "Projets",
+    "skills": "Compétences",
+    "contact": "Contact",
+    "language": "Langue",
+    "english": "English",
+    "french": "Français"
+  },
+  "Hero": {
+    "welcome": "Bienvenue dans mon espace numérique. Je construis des choses pour le web avec passion et précision.",
+    "getInTouch": "Contactez-moi",
+    "downloadCv": "Télécharger le CV"
+  },
+  "About": {
+    "title": "À propos de moi",
+    "subtitle": "Une brève introduction à qui je suis et ce que je fais.",
+    "paragraph": "Au-delà du codage, je suis passionné par la création d'expériences utilisateur intuitives, à la fois fonctionnelles et visuellement attrayantes. Je crois qu'un excellent logiciel est construit à l'intersection d'une technologie puissante et d'un design réfléchi."
+  },
+  "Experience": {
+    "title": "Expérience",
+    "subtitle": "Le parcours de ma carrière professionnelle et de mes réalisations. Cliquez sur un élément pour voir plus de détails.",
+    "items": [
+      {
+        "role": "Consultant Technique SAP",
+        "description": "Implémentation de SAP ERP/S/4HANA (On-Prem & Cloud), développement de programmes ABAP, CDS Views, applications ABAP RESTful Application Programming Model (RAP) et solutions UI/UX SAP Fiori. Création de services OData et intégrations SAP BTP ; développement d'applications Java Spring Boot & Node.js avec CAP. Application des pratiques Keep the Core Clean, contribution au travail d'équipe agile et amélioration de la connectivité SAP BTP. Collaboration avec les équipes fonctionnelles pour assurer des spécifications techniques précises."
+      },
+      {
+        "role": "Développeur Full Stack (Stagiaire)",
+        "description": "Création d'une application web de gestion de production avec Spring MVC, Spring Security, Thymeleaf et MySQL pour gérer la planification, le suivi et les rapports de production, améliorant ainsi l'efficacité opérationnelle."
+      },
+      {
+        "role": "Développeur de Logiciels (Stagiaire)",
+        "description": "Création d'un système de gestion de bibliothèque avec Java Swing et MySQL pour gérer l'inventaire des livres et les dossiers des membres."
+      }
+    ]
+  },
+  "Education": {
+    "title": "Éducation",
+    "subtitle": "Mon parcours académique et mes qualifications. Cliquez sur un élément pour voir plus de détails.",
+    "pageTitle": "{degree} de {institution}",
+    "pageDescription": "Détails sur le {degree} de {institution}.",
+    "backLink": "Retour au Portfolio",
+    "items": [
+      { "degree": "Master en Génie Logiciel" },
+      { "degree": "Licence en Génie Informatique" },
+      { "degree": "Diplôme de Développement Logiciel" },
+      { "degree": "Baccalauréat en Technologies Électriques" }
+    ]
+  },
+  "Projects": {
+    "title": "Projets",
+    "subtitle": "Une sélection de mes travaux récents. Explorez et découvrez ce que je peux faire.",
+    "items": [
+      {
+        "title": "Suggéreur de Projets par IA",
+        "description": "Un formulaire de contact intelligent qui suggère des projets de portfolio pertinents en fonction des intérêts de l'utilisateur à l'aide de GenAI."
+      },
+      {
+        "title": "Plateforme E-commerce",
+        "description": "Une boutique en ligne complète avec gestion des produits, panier d'achat et intégration des paiements."
+      },
+      {
+        "title": "Application de Planification de Voyages",
+        "description": "Une application mobile pour planifier des voyages, réserver des vols et découvrir de nouvelles destinations."
+      },
+      {
+        "title": "Tableau de Bord d'Analyse de Données",
+        "description": "Un tableau de bord web pour visualiser et analyser des ensembles de données complexes avec des graphiques et des rapports interactifs."
+      }
+    ]
+  },
+  "Skills": {
+    "title": "Compétences Techniques",
+    "subtitle": "Les technologies et outils que j'utilise pour donner vie à mes projets.",
+    "categories": [
+      { "title": "Langages de Programmation" },
+      { "title": "Frameworks & APIs" },
+      { "title": "SAP & Cloud" },
+      { "title": "Bases de Données" },
+      { "title": "Outils & Méthodes" }
+    ]
+  },
+  "Certifications": {
+    "title": "Apprentissage & Certifications",
+    "subtitle": "Mes profils et badges sur différentes plateformes d'apprentissage.",
+    "items": [
+      { "title": "Profil Développeur Google", "issuer": "Google" },
+      { "title": "Badges Credly", "issuer": "Credly" },
+      { "title": "Badges Microsoft Learn", "issuer": "Microsoft" },
+      { "title": "Profil HackerRank", "issuer": "HackerRank" }
+    ]
+  },
+  "Hobbies": {
+    "title": "Langues & Loisirs",
+    "subtitle": "Ce que je fais pendant mon temps libre et les langues que je parle.",
+    "languagesTitle": "Langues",
+    "hobbiesTitle": "Loisirs",
+    "languages": [
+      { "name": "Anglais", "level": "Professionnel" },
+      { "name": "Français", "level": "Professionnel" },
+      { "name": "Arabe", "level": "Natif" },
+      { "name": "Tamazight", "level": "Natif" }
+    ],
+    "hobbies": ["Volley-ball", "Échecs", "Recherche & Découverte"]
+  },
+  "Contact": {
+    "title": "Contactez-moi",
+    "subtitle": "Vous avez une question ou un projet en tête ? Ou vous voulez simplement dire bonjour ? Connectons-nous. Utilisez le formulaire ci-dessous pour obtenir des recommandations de projets basées sur l'IA !",
+    "formTitle": "Suggéreur de Projet ✨",
+    "nameLabel": "Votre Nom",
+    "namePlaceholder": "Alex Dupont",
+    "emailLabel": "Votre Email",
+    "emailPlaceholder": "alex@example.com",
+    "interestsLabel": "Domaines d'intérêt",
+    "interestsPlaceholder": "ex: IA, Machine Learning, Développement Web...",
+    "submitButton": "Générer des Suggestions",
+    "suggestionsTitle": "Voici quelques suggestions pour vous !",
+    "relevantProjects": "Projets pertinents:",
+    "relevantExperience": "Expérience pertinente:",
+    "contactInfo": "Informations de contact"
+  },
+  "Footer": {
+    "copy": "© {year} {name}. Tous droits réservés."
+  },
+  "Chatbot": {
+    "greeting": "Bonjour ! Je suis KineticBot. Je peux répondre aux questions sur {name}. Que souhaitez-vous savoir ?",
+    "inputPlaceholder": "Posez une question sur mes compétences...",
+    "errorMessage": "Je suis désolé, une erreur s'est produite. Veuillez réessayer plus tard."
+  }
+}

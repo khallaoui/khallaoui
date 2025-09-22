@@ -1,0 +1,70 @@
+{
+  "placeholderImages": [
+    {
+      "id": "profile-photo",
+      "description": "A portrait of a person.",
+      "imageUrl": "https://picsum.photos/seed/101/512/512",
+      "imageHint": "portrait person"
+    },
+    {
+      "id": "project-1",
+      "description": "Abstract visualization of a neural network.",
+      "imageUrl": "https://picsum.photos/seed/201/600/400",
+      "imageHint": "abstract tech"
+    },
+    {
+      "id": "project-2",
+      "description": "An e-commerce website on a laptop.",
+      "imageUrl": "https://picsum.photos/seed/202/600/400",
+      "imageHint": "website ecommerce"
+    },
+    {
+      "id": "project-3",
+      "description": "Mobile application showing a travel booking interface.",
+      "imageUrl": "https://picsum.photos/seed/203/600/400",
+      "imageHint": "mobile app"
+    },
+    {
+      "id": "project-4",
+      "description": "A dashboard with various charts and graphs.",
+      "imageUrl": "https://picsum.photos/seed/204/600/400",
+      "imageHint": "dashboard data"
+    },
+    {
+      "id": "exp-logo-1",
+      "description": "Tech company A logo",
+      "imageUrl": "https://picsum.photos/seed/301/100/100",
+      "imageHint": "tech logo"
+    },
+    {
+      "id": "exp-logo-2",
+      "description": "Tech company B logo",
+      "imageUrl": "https://picsum.photos/seed/302/100/100",
+      "imageHint": "startup logo"
+    },
+    {
+      "id": "exp-logo-3",
+      "description": "University logo",
+      "imageUrl": "https://picsum.photos/seed/303/100/100",
+      "imageHint": "university logo"
+    },
+    {
+      "id": "cert-1",
+      "description": "Cloud certification badge.",
+      "imageUrl": "https://picsum.photos/seed/401/400/300",
+      "imageHint": "certification badge"
+    },
+    {
+      "id": "cert-2",
+      "description": "Machine learning certification badge.",
+      "imageUrl": "https://picsum.photos/seed/402/400/300",
+      "imageHint": "certification ai"
+    },
+    {
+      "id": "cert-3",
+      "description": "React developer certification badge.",
+      "imageUrl": "https://picsum.photos/seed/403/400/300",
+      "imageHint": "certification code"
+    }
+  ]
+}
